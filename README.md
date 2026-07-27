@@ -1,4 +1,4 @@
-# 🚀 My JavaScript Projects
+# 🚀 My Css Projects
 
 ## 🔗 Live Projects
 
@@ -7,3 +7,4 @@
 ## 📁 Projects Included
 - Portfolio
 - Landing Page
+- Amazon
