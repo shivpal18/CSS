@@ -1,0 +1,18 @@
+/* Q1 */
+#box{
+    background-color: blue;
+    color: white;
+    padding:20px;
+}
+
+/* Q2 */
+.heading{
+    color: red;
+}
+
+/* Q3 */
+.btn1{
+    background-color: green;
+    padding:10px;
+    color:white;
+}

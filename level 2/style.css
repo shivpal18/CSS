@@ -1,0 +1,47 @@
+#Div {
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: brown; */
+    border: 2px solid black;
+}
+
+h1 {
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+    border-width: 3px;
+    border-style: dashed;
+    border-color: black;
+    text-align: center;
+}
+
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: center;
+    border: 2px solid brown;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+.div2{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: center;
+    border: 2px solid brown;
+    border-radius: 20px;
+}
+.div3{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: center;
+    border: 2px solid brown;
+    border-radius: 25px;
+}

@@ -1,0 +1,41 @@
+/* universal selectors */
+/* * {
+    color: red;
+} */
+
+h1 {
+    color: red;
+}
+#one {
+    color: green;
+    text-align: left;
+    text-decoration: red underline;
+    font-family: arial;
+    font-size: 12px;
+}
+button{
+    color: blue;
+}
+/* body{
+    background-color: yellow;
+} */
+
+#Heading1 {
+    color:rgb(168, 42, 42);
+    font-weight: 100;
+}
+#Heading2 {
+    color:chocolate;
+}
+#Heading3 {
+    color:magenta;
+}
+a {
+    text-decoration: none;
+}
+
+#two {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 0.5cm;
+    text-transform: uppercase;
+}
